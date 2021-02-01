@@ -1,2 +1,2 @@
-Instaloader module:
+Instaloader library:
 https://instaloader.github.io/as-module.html
