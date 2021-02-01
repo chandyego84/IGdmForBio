@@ -1,0 +1,2 @@
+Instaloader module:
+https://instaloader.github.io/as-module.html
